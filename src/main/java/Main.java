@@ -29,8 +29,8 @@ public class Main {
 
             System.out.println("Menú de propiedades");
             System.out.println("Elija una opción");
-            System.out.println("1. Área.");
-            System.out.println("2. Perímetro.");
+            System.out.println("1. Calcular Área.");
+            System.out.println("2. Calcular Perímetro.");
             System.out.println("0. Salir.");
 
             property = scanner.nextLine();
